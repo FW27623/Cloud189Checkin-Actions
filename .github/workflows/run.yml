@@ -8,7 +8,7 @@ on:
   watch:
     types: started
   schedule:
-    - cron: 15 16 * * *
+    - cron: 0 16 * * *
 
 jobs:
   Cloud189Checkin:
