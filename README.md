@@ -16,8 +16,8 @@ forked from peng4740/Cloud189Checkin-Actions
 示例：  
 **USER**
 ```
-123456
-24678
+12345678
+24678901
 ```
 **PWD**
 ```
